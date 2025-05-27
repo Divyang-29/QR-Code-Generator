@@ -17,4 +17,4 @@ A simple web app that generates QR codes from user input text or URLs using the 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/divyang-29/qr-code-generator.git
+   git clone https://github.com/divyang-29/QR-Code-Generator.git
